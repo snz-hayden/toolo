@@ -1,0 +1,35 @@
+@font-face {
+    font-family: 'Nanum Gothic';
+    font-style: normal;
+    font-weight: 300;
+    src: url(//cdn.jsdelivr.net/gh/snz-hayden/toolo/fonts/nanum_gothic/file/NanumGothicLight.woff2) format('woff2'),
+        url(//cdn.jsdelivr.net/gh/snz-hayden/toolo/fonts/nanum_gothic/file/NanumGothicLight.woff) format('woff'),
+        url(//cdn.jsdelivr.net/gh/snz-hayden/toolo/fonts/nanum_gothic/file/NanumGothicLight.otf) format('otf')
+}
+
+@font-face {
+    font-family: 'Nanum Gothic';
+    font-style: normal;
+    font-weight: 400;
+    src: url(//cdn.jsdelivr.net/gh/snz-hayden/toolo/fonts/nanum_gothic/file/NanumGothic.woff2) format('woff2'),
+        url(//cdn.jsdelivr.net/gh/snz-hayden/toolo/fonts/nanum_gothic/file/NanumGothic.woff) format('woff'),
+        url(//cdn.jsdelivr.net/gh/snz-hayden/toolo/fonts/nanum_gothic/file/NanumGothic.otf) format('otf')
+}
+
+@font-face {
+    font-family: 'Nanum Gothic';
+    font-style: normal;
+    font-weight: 700;
+    src: url(//cdn.jsdelivr.net/gh/snz-hayden/toolo/fonts/nanum_gothic/file/NanumGothicBold.woff2) format('woff2'),
+        url(//cdn.jsdelivr.net/gh/snz-hayden/toolo/fonts/nanum_gothic/file/NanumGothicBold.woff) format('woff'),
+        url(//cdn.jsdelivr.net/gh/snz-hayden/toolo/fonts/nanum_gothic/file/NanumGothicBold.otf) format('otf')
+}
+
+@font-face {
+    font-family: 'Nanum Gothic';
+    font-style: normal;
+    font-weight: 800;
+    src: url(//cdn.jsdelivr.net/gh/snz-hayden/toolo/fonts/nanum_gothic/file/NanumGothicExtraBold.woff2) format('woff2'),
+        url(//cdn.jsdelivr.net/gh/snz-hayden/toolo/fonts/nanum_gothic/file/NanumGothicExtraBold.woff) format('woff'),
+        url(//cdn.jsdelivr.net/gh/snz-hayden/toolo/fonts/nanum_gothic/file/NanumGothicExtraBold.otf) format('otf')
+}
