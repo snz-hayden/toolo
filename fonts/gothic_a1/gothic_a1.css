@@ -1,0 +1,71 @@
+@font-face {
+    font-family: 'Gothic A1';
+    font-style: normal;
+    font-weight: 100;
+    src:  url(//cdn.jsdelivr.net/gh/snz-hayden/toolo/fonts/gothic_a1/file/GothicA1-Thin.woff) format('woff'), 
+         url(//cdn.jsdelivr.net/gh/snz-hayden/toolo/fonts/gothic_a1/file/GothicA1-Thin.ttf) format('truetype')
+}
+
+@font-face {
+    font-family: 'Gothic A1';
+    font-style: normal;
+    font-weight: 200;
+    src: url(//cdn.jsdelivr.net/gh/snz-hayden/toolo/fonts/gothic_a1/file/GothicA1-ExtraLight.woff) format('woff'),
+        url(//cdn.jsdelivr.net/gh/snz-hayden/toolo/fonts/gothic_a1/file/GothicA1-ExtraLight.ttf) format('truetype')
+}
+
+@font-face {
+    font-family: 'Gothic A1';
+    font-style: normal;
+    font-weight: 300;
+    src: url(//cdn.jsdelivr.net/gh/snz-hayden/toolo/fonts/gothic_a1/file/GothicA1-Light.woff) format('woff'),
+        url(//cdn.jsdelivr.net/gh/snz-hayden/toolo/fonts/gothic_a1/file/GothicA1-Light.ttf) format('truetype')
+}
+
+@font-face {
+    font-family: 'Gothic A1';
+    font-style: normal;
+    font-weight: 400;
+    src: url(//cdn.jsdelivr.net/gh/snz-hayden/toolo/fonts/gothic_a1/file/GothicA1-Regular.woff) format('woff'),
+        url(//cdn.jsdelivr.net/gh/snz-hayden/toolo/fonts/gothic_a1/file/GothicA1-Regular.ttf) format('truetype')
+}
+
+@font-face {
+    font-family: 'Gothic A1';
+    font-style: normal;
+    font-weight: 500;
+    src: url(//cdn.jsdelivr.net/gh/snz-hayden/toolo/fonts/gothic_a1/file/GothicA1-Medium.woff) format('woff'),
+        url(//cdn.jsdelivr.net/gh/snz-hayden/toolo/fonts/gothic_a1/file/GothicA1-Medium.ttf) format('truetype')
+}
+
+@font-face {
+    font-family: 'Gothic A1';
+    font-style: normal;
+    font-weight: 600;
+    src: url(//cdn.jsdelivr.net/gh/snz-hayden/toolo/fonts/gothic_a1/file/GothicA1-SemiBold.woff) format('woff'),
+        url(//cdn.jsdelivr.net/gh/snz-hayden/toolo/fonts/gothic_a1/file/GothicA1-SemiBold.ttf) format('truetype')
+}
+
+@font-face {
+    font-family: 'Gothic A1';
+    font-style: normal;
+    font-weight: 700;
+    src: url(//cdn.jsdelivr.net/gh/snz-hayden/toolo/fonts/gothic_a1/file/GothicA1-Bold.woff) format('woff'),
+        url(//cdn.jsdelivr.net/gh/snz-hayden/toolo/fonts/gothic_a1/file/GothicA1-Bold.ttf) format('truetype')
+}
+
+@font-face {
+    font-family: 'Gothic A1';
+    font-style: normal;
+    font-weight: 800;
+    src: url(//cdn.jsdelivr.net/gh/snz-hayden/toolo/fonts/gothic_a1/file/GothicA1-ExtraBold.woff) format('woff'),
+        url(//cdn.jsdelivr.net/gh/snz-hayden/toolo/fonts/gothic_a1/file/GothicA1-ExtraBold.ttf) format('truetype')
+}
+
+@font-face {
+    font-family: 'Gothic A1';
+    font-style: normal;
+    font-weight: 900;
+    src: url(//cdn.jsdelivr.net/gh/snz-hayden/toolo/fonts/gothic_a1/file/GothicA1-Black.woff) format('woff'),
+        url(//cdn.jsdelivr.net/gh/snz-hayden/toolo/fonts/gothic_a1/file/GothicA1-Black.ttf) format('truetype')
+}
