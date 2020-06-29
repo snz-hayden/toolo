@@ -2,7 +2,7 @@
     font-family: 'Black Han Sans';
     font-style: normal;
     font-weight: 400;
-    src: url(//cdn.jsdelivr.net/gh/snz-hayden/toolo/fonts/blacn_han_sans/file/blacn_han_sans.woff2) format('woff2'),
-        url(//cdn.jsdelivr.net/gh/snz-hayden/toolo/fonts/blacn_han_sans/file/blacn_han_sans.woff) format('woff'),
-        url(//cdn.jsdelivr.net/gh/snz-hayden/toolo/fonts/blacn_han_sans/file/blacn_han_sans.otf) format('otf')
+    src: url(//cdn.jsdelivr.net/gh/snz-hayden/toolo/fonts/black_han_sans/file/black_han_sans.woff2) format('woff2'),
+        url(//cdn.jsdelivr.net/gh/snz-hayden/toolo/fonts/black_han_sans/file/black_han_sans.woff) format('woff'),
+        url(//cdn.jsdelivr.net/gh/snz-hayden/toolo/fonts/black_han_sans/file/black_han_sans.otf) format('otf')
 }
