@@ -4,7 +4,7 @@
     font-weight: 300;
     src: url(//cdn.jsdelivr.net/gh/snz-hayden/toolo/fonts/nixgon/file/NIXGONFONTS_Light.woff2) format('woff2'),
         url(//cdn.jsdelivr.net/gh/snz-hayden/toolo/fonts/nixgon/file/NIXGONFONTS_Light.woff) format('woff'),
-        url(//cdn.jsdelivr.net/gh/snz-hayden/toolo/fonts/nixgon/file/NIXGONFONTS_Light.otf) format('otf')
+        url(//cdn.jsdelivr.net/gh/snz-hayden/toolo/fonts/nixgon/file/NIXGONFONTS_Light.ttf) format('truetype')
 }
 
 @font-face {
@@ -13,7 +13,7 @@
     font-weight: 400;
     src: url(//cdn.jsdelivr.net/gh/snz-hayden/toolo/fonts/nixgon/file/NIXGONFONTS_Regular.woff2) format('woff2'),
         url(//cdn.jsdelivr.net/gh/snz-hayden/toolo/fonts/nixgon/file/NIXGONFONTS_Regular.woff) format('woff'),
-        url(//cdn.jsdelivr.net/gh/snz-hayden/toolo/fonts/nixgon/file/NIXGONFONTS_Regular.otf) format('otf')
+        url(//cdn.jsdelivr.net/gh/snz-hayden/toolo/fonts/nixgon/file/NIXGONFONTS_Regular.ttf) format('truetype')
 }
 
 @font-face {
@@ -22,5 +22,5 @@
     font-weight: 700;
     src: url(//cdn.jsdelivr.net/gh/snz-hayden/toolo/fonts/nixgon/file/NIXGONFONTS_bold.woff2) format('woff2'),
         url(//cdn.jsdelivr.net/gh/snz-hayden/toolo/fonts/nixgon/file/NIXGONFONTS_bold.woff) format('woff'),
-        url(//cdn.jsdelivr.net/gh/snz-hayden/toolo/fonts/nixgon/file/NIXGONFONTS_bold.otf) format('otf')
+        url(//cdn.jsdelivr.net/gh/snz-hayden/toolo/fonts/nixgon/file/NIXGONFONTS_bold.ttf) format('truetype')
 }
