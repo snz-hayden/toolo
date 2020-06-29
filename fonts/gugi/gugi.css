@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Gugi';
+    font-style: normal;
+    font-weight: 400;
+    src: url(//cdn.jsdelivr.net/gh/snz-hayden/toolo/fonts/gugi/file/gugi.woff2) format('woff2'),
+        url(//cdn.jsdelivr.net/gh/snz-hayden/toolo/fonts/gugi/file/gugi.woff) format('woff'),
+        url(//cdn.jsdelivr.net/gh/snz-hayden/toolo/fonts/gugi/file/gugi.otf) format('otf')
+}
