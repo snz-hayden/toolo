@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Jua';
+    font-style: normal;
+    font-weight: 400;
+    src: url(//cdn.jsdelivr.net/gh/snz-hayden/toolo/fonts/jua/file/jua.woff2) format('woff2'),
+        url(//cdn.jsdelivr.net/gh/snz-hayden/toolo/fonts/jua/file/jua.woff) format('woff'),
+        url(//cdn.jsdelivr.net/gh/snz-hayden/toolo/fonts/jua/file/jua.otf) format('otf')
+}
