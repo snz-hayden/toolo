@@ -11,16 +11,16 @@
     font-family: 'Nanum Myeongjo';
     font-style: normal;
     font-weight: 700;
-    src: url(//cdn.jsdelivr.net/gh/snz-hayden/toolo/fonts/nanum_myeongjo/file/NanumMyeongjo.woff2) format('woff2'),
-        url(//cdn.jsdelivr.net/gh/snz-hayden/toolo/fonts/nanum_myeongjo/file/NanumMyeongjo.woff) format('woff'),
-        url(//cdn.jsdelivr.net/gh/snz-hayden/toolo/fonts/nanum_myeongjo/file/NanumMyeongjo.otf) format('otf')
+    src: url(//cdn.jsdelivr.net/gh/snz-hayden/toolo/fonts/nanum_myeongjo/file/NanumMyeongjoBold.woff2) format('woff2'),
+        url(//cdn.jsdelivr.net/gh/snz-hayden/toolo/fonts/nanum_myeongjo/file/NanumMyeongjoBold.woff) format('woff'),
+        url(//cdn.jsdelivr.net/gh/snz-hayden/toolo/fonts/nanum_myeongjo/file/NanumMyeongjoBold.otf) format('otf')
 }
 
 @font-face {
     font-family: 'Nanum Myeongjo';
     font-style: normal;
     font-weight: 800;
-    src: url(//cdn.jsdelivr.net/gh/snz-hayden/toolo/fonts/nanum_myeongjo/file/NanumMyeongjo.woff2) format('woff2'),
-        url(//cdn.jsdelivr.net/gh/snz-hayden/toolo/fonts/nanum_myeongjo/file/NanumMyeongjo.woff) format('woff'),
-        url(//cdn.jsdelivr.net/gh/snz-hayden/toolo/fonts/nanum_myeongjo/file/NanumMyeongjo.otf) format('otf')
+    src: url(//cdn.jsdelivr.net/gh/snz-hayden/toolo/fonts/nanum_myeongjo/file/NanumMyeongjoExtraBold.woff2) format('woff2'),
+        url(//cdn.jsdelivr.net/gh/snz-hayden/toolo/fonts/nanum_myeongjo/file/NanumMyeongjoExtraBold.woff) format('woff'),
+        url(//cdn.jsdelivr.net/gh/snz-hayden/toolo/fonts/nanum_myeongjo/file/NanumMyeongjoExtraBold.otf) format('otf')
 }
