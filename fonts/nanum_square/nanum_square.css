@@ -11,9 +11,9 @@
     font-family: 'Nanum Square';
     font-style: normal;
     font-weight: 400;
-    src: url(//cdn.jsdelivr.net/gh/snz-hayden/toolo/fonts/nanum_square/file/NanumSquare.woff2) format('woff2'),
-        url(//cdn.jsdelivr.net/gh/snz-hayden/toolo/fonts/nanum_square/file/NanumSquare.woff) format('woff'),
-        url(//cdn.jsdelivr.net/gh/snz-hayden/toolo/fonts/nanum_square/file/NanumSquare.otf) format('otf')
+    src: url(//cdn.jsdelivr.net/gh/snz-hayden/toolo/fonts/nanum_square/file/NanumSquareRegular.woff2) format('woff2'),
+        url(//cdn.jsdelivr.net/gh/snz-hayden/toolo/fonts/nanum_square/file/NanumSquareRegular.woff) format('woff'),
+        url(//cdn.jsdelivr.net/gh/snz-hayden/toolo/fonts/nanum_square/file/NanumSquareRegular.otf) format('otf')
 }
 
 @font-face {
